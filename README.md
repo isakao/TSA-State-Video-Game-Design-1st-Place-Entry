@@ -7,3 +7,5 @@ All the art and music were bought and sourced from itch, so please do not take a
 
 Here is the game on itch: https://idle-lily.itch.io/cat-quest
 Here is the video tutorial: https://www.youtube.com/watch?v=0ZNQMcPU_bE&feature=youtu.be
+
+Currently struggling to use Git, so email me if you want to look at the code!
